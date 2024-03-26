@@ -3,6 +3,17 @@ Tutorial
 
 There are two types of loops in Python, for and while.
 
+Example with "Append" function:
+a = []
+a.append(2)
+a.append(3)
+a.append(5)
+a.append(7)
+print(a)
+#output: [2,3,5,7]
+
+Here, Making a list "for" loop which can use in example:
+
 ### The "for" loop
 
 For loops iterate over a given sequence. Here is an example:
